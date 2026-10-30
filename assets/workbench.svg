@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="440" viewBox="0 0 560 440">
+  <rect width="560" height="440" fill="#e8eee5"/>
+  <g stroke="#cad5c8" stroke-width="1" opacity=".7"><path d="M0 55H560M0 110H560M0 165H560M0 220H560M0 275H560M0 330H560M0 385H560M56 0V440M112 0V440M168 0V440M224 0V440M280 0V440M336 0V440M392 0V440M448 0V440M504 0V440"/></g>
+  <ellipse cx="280" cy="351" rx="228" ry="32" fill="#cbd6c7"/>
+  <rect x="65" y="87" width="264" height="190" rx="15" fill="#c6d1bf"/>
+  <rect x="57" y="78" width="264" height="190" rx="15" fill="#f6f5ec" stroke="#6f8775" stroke-width="2"/>
+  <rect x="77" y="98" width="183" height="133" rx="6" fill="#1d3931"/>
+  <g stroke="#3b5747" fill="none"><path d="M77 131H260M77 164H260M77 197H260M113 98V231M150 98V231M187 98V231M224 98V231"/></g>
+  <path d="M79 165H103L118 132L139 202L162 124L183 197L207 143L219 165H258" fill="none" stroke="#b6e89b" stroke-width="3" stroke-linejoin="round"/>
+  <g fill="#7e9380"><circle cx="290" cy="116" r="11"/><circle cx="290" cy="153" r="11"/><circle cx="290" cy="190" r="11"/></g>
+  <path d="M286 111L294 120M286 148L294 157M286 185L294 194" stroke="#f8f7ef" stroke-width="2"/>
+  <path d="M90 247H164" stroke="#8e9e8b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M117 268V303C117 340 224 355 250 310" fill="none" stroke="#bc764f" stroke-width="5"/>
+  <g transform="translate(232 232) rotate(-8)">
+    <rect width="189" height="112" rx="9" fill="#2f6550" stroke="#1c4738" stroke-width="2"/>
+    <g fill="none" stroke="#92ab78" stroke-width="2"><path d="M18 20H55V42H75M18 92H55V73H75M115 42H148V20H173M115 73H153V92H173M95 23V8M95 90V103"/></g>
+    <g fill="#c5c999"><circle cx="17" cy="20" r="4"/><circle cx="17" cy="92" r="4"/><circle cx="173" cy="20" r="4"/><circle cx="173" cy="92" r="4"/></g>
+    <rect x="72" y="31" width="49" height="51" rx="3" fill="#1b302b"/>
+    <g stroke="#d0ceae" stroke-width="3"><path d="M77 27V15M88 27V15M99 27V15M110 27V15M77 86V98M88 86V98M99 86V98M110 86V98M68 39H58M68 51H58M68 63H58M68 75H58M125 39H135M125 51H135M125 63H135M125 75H135"/></g>
+    <circle cx="153" cy="56" r="6" fill="#d0e7a1"/>
+  </g>
+  <g transform="translate(355 109) rotate(10)"><rect width="133" height="130" rx="4" fill="#faf7ec" stroke="#a8b09e"/><path d="M19 30H113M19 48H105M19 66H113M19 84H84" stroke="#bac6b4" stroke-width="2"/><path d="M19 109L42 94L62 105L84 87L110 98" fill="none" stroke="#6d8e70" stroke-width="2"/></g>
+  <path d="M430 279L477 348" stroke="#aa6844" stroke-width="9" stroke-linecap="round"/><path d="M477 348L485 361L469 353Z" fill="#344b3b"/>
+  <text x="32" y="409" fill="#637b66" font-family="monospace" font-size="10" letter-spacing="2">A WORK IN PROGRESS.</text>
+</svg>
